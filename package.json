@@ -1,0 +1,23 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Hi im Marvin Bernales. I'm a registered pharmacist by profession.\r I do photography and videography in my free time.I also edit videos.\r Only 2 months left until the end of the year. I just want to slowly expound my programming skills.\r I wanted to be a developer because i don't see growth here in my current job.\r I want to create things i want to explore and hopefully make an impact one day.",
+  "main": "bmi-calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tearlesscry/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tearlesscry/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/Tearlesscry/My-Refocus-Assignments#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
